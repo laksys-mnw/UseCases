@@ -13,3 +13,8 @@ in point 4 on smart contracts.
 
 # Chainflux Slack link
 https://join.slack.com/t/teamchainflux/shared_invite/enQtMzI3NDE1NTg0ODIxLTBjZjgzMWU1ZDk1NWNiZWFkNDg0MWRiYjcxMjIwODY5NzRjNmZhMGQyNGM5MTZiMTVkOGY4NDEwMjhjNzI3NTE
+
+
+
+
+Angular2 - Register and complete these two courses this week : https://www.edx.org/course/developing-dynamic-web-applications-microsoft-dev216x-1 ; https://www.edx.org/course/angularjs-advanced-framework-techniques-microsoft-dev221x-2.
